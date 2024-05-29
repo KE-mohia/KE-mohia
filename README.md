@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+wayne here fullstack software developer🔭
+- 💬 Ask me about Htmal,css,Taulwind,react javasrip,pythone,postgress Sql, flask 
 
 <!--
 **KE-mohia/KE-mohia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
