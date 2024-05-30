@@ -2,8 +2,8 @@
 wayne here fullstack software developer🔭
 
 - 🌱 I’m currently learning machine learning
-💬 Ask me about react, js, tailwind CSS, CSS, HTML, python, Flask, nextJs
-📫 How to reach me keyawayne1@gmail.com
+-💬 Ask me about react, js, tailwind CSS, CSS, HTML, python, Flask, nextJs
+-📫 How to reach me keyawayne1@gmail.com
 
 
 <!--
