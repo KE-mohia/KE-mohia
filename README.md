@@ -1,6 +1,10 @@
 ### Hi there 👋 
 wayne here fullstack software developer🔭
-- 💬 Ask me about Htmal,css,Taulwind,react javasrip,pythone,postgress Sql, flask 
+
+- 🌱 I’m currently learning machine learning
+💬 Ask me about react, js, tailwind CSS, CSS, HTML, python, Flask, nextJs
+📫 How to reach me keyawayne1@gmail.com
+
 
 <!--
 **KE-mohia/KE-mohia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
